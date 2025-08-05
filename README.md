@@ -1,4 +1,5 @@
 © 2025 - Made by Dante Muller (https://github.com/ancan322)
+
 If you are gonna make changes and publish them please give me credits, it's specified in the LICENSE file
 # PCA - Personal Chat Assistant
 
