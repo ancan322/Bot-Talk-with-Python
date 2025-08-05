@@ -1,6 +1,8 @@
 © 2025 - Made by Dante Muller (https://github.com/ancan322)
 # PCA - Personal Chat Assistant
 
+THIS PROJECT IS DISCONTINUED
+
 Asistente de voz que escucha tu voz, la transcribe y responde usando ChatGPT y síntesis de voz (TTS).
 
 Voice assistant in Spanish that hears your voice, transcribes it, and replies using ChatGPT and text-to-speech (TTS).
