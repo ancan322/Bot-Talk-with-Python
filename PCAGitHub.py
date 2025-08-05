@@ -1,4 +1,4 @@
-# PCA.py — Asistente de voz con ChatGPT, TTS y STT en español.
+# PCAGitHub.py — Asistente de voz con ChatGPT, TTS y STT en español.
 
 import os
 import sys
@@ -17,7 +17,7 @@ import edge_tts
 import pyttsx3
 import pystray
 
-# Cargar API Key desde variable de entorno (recomendado)
+# Cargar API Key desde variable de entorno
 api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
@@ -136,3 +136,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
